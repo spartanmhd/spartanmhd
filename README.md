@@ -5,17 +5,21 @@
   <img src="https://komarev.com/ghpvc/?username=spartanmhd&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
+<!-- GitHub Trophies -->
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=spartanmhd&theme=onedark&row=1&column=7" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=spartanmhd&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
   </a>
 </p>
 
+<!-- Twitter Follow -->
 <p align="left">
-  <a href="https://twitter.com/mehdimc37" target="blank">
+  <a href="https://twitter.com/mehdimc37" target="_blank">
     <img src="https://img.shields.io/twitter/follow/mehdimc37?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
 </p>
+
+---
 
 - 🔭 **Currently working on**  
   Enterprise full-stack projects using **Java 17+, Spring Boot 3, Angular 18 / React 18**, Microservices, Keycloak, Docker & Kubernetes — plus personal portfolio and open-source contributions.
@@ -41,12 +45,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <!--  <a href="https://dev.to/spartanmhd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" /></a>-->
-  <a href="https://twitter.com/mehdimc37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/mehdimaachi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/spaartan-mhd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
-  <a href="https://medium.com/@maachimehdi03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/mehdimc37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+  <a href="https://dev.to/spartanmhd" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" /></a>
+  <a href="https://twitter.com/mehdimc37" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/mehdimaachi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/spaartan-mhd" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
+  <a href="https://medium.com/@maachimehdi03" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/c/mehdimc37" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -69,6 +73,18 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spartanmhd&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spartanmhd&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spartanmhd&theme=radical" alt="GitHub Streak" /></p>
+<!-- Top Languages -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spartanmhd&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&size_weight=0.5&count_weight=0.5" alt="Top Languages" /></p>
+
+<!-- GitHub Stats -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spartanmhd&show_icons=true&locale=en&theme=radical&hide_border=true" alt="GitHub Stats" /></p>
+
+<!-- GitHub Streak -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spartanmhd&theme=radical&hide_border=true" alt="GitHub Streak" /></p>
+
+<!-- Optional: Add a portfolio link at the bottom -->
+<p align="center">
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-blue?style=for-the-badge&logo=gitbook" alt="Portfolio" />
+  </a>
+</p>
