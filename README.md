@@ -5,11 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=spartanmhd&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=spartanmhd&theme=onedark&row=1&column=7" alt="GitHub Trophies" />
   </a>
-</p>
+</p>-->
 
 <p align="left">
   <a href="https://twitter.com/mehdimc37" target="blank">
@@ -68,7 +68,7 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/> </a>
 </p>
-
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spartanmhd&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spartanmhd&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spartanmhd&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" /></p> -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spartanmhd&theme=radical" alt="GitHub Streak" /></p>
