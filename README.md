@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mehdi MAACHI 👋</h1>
+<h1 align="center">Hi, I'm Mehdi MAACHI </h1>
 <h3 align="center">Full-Stack Developer (Java • Spring Boot • Angular • React) from Morocco<br>Building scalable enterprise apps by day, training and integrating LLMs by night.</h3>
 
 <p align="left">
