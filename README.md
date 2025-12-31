@@ -21,7 +21,7 @@
   Enterprise full-stack projects using **Java 17+, Spring Boot 3, Angular 18 / React 18**, Microservices, Keycloak, Docker & Kubernetes — plus personal portfolio and open-source contributions.
 
 - 🌱 **Currently learning**  
-  Deep Learning, Large Language Models (LLMs), Generative AI, LangChain, LlamaIndex, Hugging Face Transformers, Fine-tuning (LoRA/QLoRA), RAG applications, and MLOps (MLflow, DagsHub, BentoML).
+  Deep Learning, Large Language Models (LLMs), Generative AI, LangChain, LlamaIndex, Hugging Face Transformers, Fine-tuning (LoRA/QLoRA), RAG applications, and MLOps ( MLflow, DagsHub, BentoML ).
 
 - 👯 **Looking to collaborate on**  
   Full-stack Java/Angular or Java/React projects, AI-powered web apps (chatbots, document intelligence, recommendation systems), and open-source Spring Boot or Angular libraries.
