@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/twitter/follow/mehdimc37?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
 </p>
-
+<div></div>
 - 🔭 **Currently working on**  
   Enterprise full-stack projects using **Java 17+, Spring Boot 3, Angular 18 / React 18**, Microservices, Keycloak, Docker & Kubernetes — plus personal portfolio and open-source contributions.
 
