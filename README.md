@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mehdi MAACHI</h1>
-<h3 align="center">Full-Stack Developer (Java • Spring Boot • Angular • React) — building secure, multi-tenant enterprise platforms for the banking sector.</h3>
+<h3 align="center">INGENIEUR FULL-STACK JAVA | ARCHITECTURE MICROSERVICES & DATA CLOUD — building secure, multi-tenant enterprise platforms for the banking sector.</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=spartanmhd&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -13,20 +13,19 @@
 </p>
 <div></div>
 
-- 🏦 **Currently working on**
+-  **Currently working on**
   **Spotlight**, a multi-entity banking data orchestration and ETL platform (Java 21, Spring Boot 3, PostgreSQL) — built during a software engineering internship at a banking group's IT department, covering multi-tenant data isolation, fine-grained role-based access control, and secure automation of ETL pipelines (Talend, SSH/WinRM).
 
-- 🔭 **Focus areas**
+-  **Focus areas**
   Enterprise backend architecture (Spring Boot, Spring Security, JPA/Hibernate), REST API design, data governance and access control models, Angular/React front-ends, and the engineering discipline required in a regulated, security-conscious environment.
 
-- 🌱 **Currently learning**
+-  **Currently learning**
   Large Language Models applied to software engineering workflows, Spring AI / LangChain4j, and MLOps practices (MLflow, BentoML) — exploring how AI-assisted development fits into enterprise software delivery.
 
-- 👯 **Looking to collaborate on**
-  Full-stack Java/Angular or Java/React projects, secure multi-tenant SaaS architectures, and open-source Spring Boot tooling.
+-  **Looking to collaborate on**
+   Java/Angular - React projects, secure multi-tenant SaaS architectures, and open-source Spring Boot tooling.
 
-- 💬 **Ask me about**
-  Java, Spring Boot (Security, Data JPA, REST), multi-tenant data isolation, role/permission design, Angular, React, TypeScript, PostgreSQL, Oracle, clean architecture, and Agile delivery in enterprise environments.
+
 
 - 📫 **How to reach me**
   maachimehdi03@gmail.com
